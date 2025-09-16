@@ -6,4 +6,8 @@ Saya Shakila Aulia dengan NIM 2403086 mengerjakan Tugas Praktikum 1 dalam mata k
 ## DESAIN DAN KODE FLOW
 ---
 ## DOKUMENTASI
+Tampilan Output CLI (CPP,JAVA,PYTHON)
 ![Tampilan Output CLI (CPP,JAVA,PYTHON)](Dokumentasi/SS-CLI.png)
+
+Tampilan Output WEBSITE (PHP)
+![Tampilan Output WEBSITE (PHP)](Dokumentasi/SS-PHP1.png) | ![Tampilan Output WEBSITE (PHP)](Dokumentasi/SS-PHP2.png)
