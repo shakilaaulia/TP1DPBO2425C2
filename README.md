@@ -3,6 +3,6 @@
 Saya Shakila Aulia dengan NIM 2403086 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ---
-# DESAIN DAN KODE FLOW
+## DESAIN DAN KODE FLOW
 ---
-# DOKUMENTASI
+## DOKUMENTASI
