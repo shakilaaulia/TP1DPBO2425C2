@@ -6,5 +6,4 @@ Saya Shakila Aulia dengan NIM 2403086 mengerjakan Tugas Praktikum 1 dalam mata k
 ## DESAIN DAN KODE FLOW
 ---
 ## DOKUMENTASI
-![Tampilan Output]
-(Dokumentasi/CPP.mkv)
+![Tampilan Output](Dokumentasi/CPP.mkv)
