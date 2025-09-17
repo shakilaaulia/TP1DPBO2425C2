@@ -16,12 +16,12 @@ Atribut
 - harga
 - gambar (khusus versi web PHP)
 
-  Method
-  - tambahData() = tambah produk baru yang idnya belum terdaftar
-  - tampilkanData() = menampilkan semua produk
-  - cariData() = cari produk berdasarkan ID
-  - updateData() = update data produk berdasarkan ID (bisa pilih per atribut atau semua)
-  - hapusData() = hapus produk berdasarkan ID
+Method
+- tambahData() = tambah produk baru yang idnya belum terdaftar
+- tampilkanData() = menampilkan semua produk
+- cariData() = cari produk berdasarkan ID
+- updateData() = update data produk berdasarkan ID (bisa pilih per atribut atau semua)
+- hapusData() = hapus produk berdasarkan ID
  
   **Kode Flow**
   
