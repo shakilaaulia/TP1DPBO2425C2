@@ -7,6 +7,7 @@ Saya Shakila Aulia dengan NIM 2403086 mengerjakan Tugas Praktikum 1 dalam mata k
 **Desain**
 
 Untuk desain sendiri menggunakan satu class yaitu ProdukElektronik, yang memiliki atribut dan method:
+
 Atribut
 - idProduk
 - namaProduk
