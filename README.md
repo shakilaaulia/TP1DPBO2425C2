@@ -5,6 +5,7 @@ Saya Shakila Aulia dengan NIM 2403086 mengerjakan Tugas Praktikum 1 dalam mata k
 ---
 ## DESAIN DAN KODE FLOW
 **Desain**
+
 Untuk desain sendiri menggunakan satu class yaitu ProdukElektronik, yang memiliki atribut dan method:
 Atribut
 - idProduk
@@ -22,6 +23,7 @@ Atribut
   - hapusData() = hapus produk berdasarkan ID
  
   **Kode Flow**
+  
   1. C++
      - Program mulai dari Main.cpp untuk tampilkan menu
      - User pilih menu (Tambah, Tampil, Cari, Update, Hapus, Keluar) memakai switch
