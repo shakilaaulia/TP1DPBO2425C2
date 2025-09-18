@@ -24,6 +24,7 @@ Method
 - hapusData() = hapus produk berdasarkan ID
 
 **Kode Flow**
+Penjelasan Kode Flow dari tiap bahasa:
 1. C++
      - Program mulai dari Main.cpp untuk tampilkan menu
      - User pilih menu (Tambah, Tampil, Cari, Update, Hapus, Keluar) memakai switch
@@ -51,6 +52,28 @@ Method
      - Untuk edit produk form masih terisi data lama lalu pilih yang akan diupdate bisa juga menganti gambar
      - Untuk hapus produk data dan gambar akan terhapus
      - Fitur pencarian tinggal masukan apa yang mau dicari lalu akan langsung menampilkan
+  
+Penjelasan Umum Method CRUDS:
+1. Create
+   - Cek terlebih dahulu id apakah sudah ada atau belum
+   - Jika belum ada maka akan memasukkan data ke list object
+   - Jika sudah ada maka tidak akan berhasil
+3. Read
+   - Mencari id yang akan dibaca
+   - Jika ada maka langsung menampilkan data
+   - Jika tidak maka akan ada keterangan bahwa produk tidak ada
+5. Update
+   - Mencari id yang akan diupdate
+   - Jika sudah ketemu akan diberi pilihan apakah akan mengubah peratribut atau langsung semua
+   - Jika tidak ketemu akan ada keterangan bahwa produk tidak ada
+7. Delete
+   - Mencari id yang akan dihapus
+   - Jika sudah ketemu akan langsung menghapus data dari list object
+   - Jika tidak ketemu akan ada keterangan bahwa produk tidak ada
+9. Search 
+   - Mencari id yang dimaksud
+   - Jika ada maka tampilkan
+   - Jika tidak ketemu akan ada keterangan bahwa produk tidak ada
 
 *Penjelasan detail tiap methodnya dijelaskan dalam komentar di kode program
 
